@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on to get myself a intern
-🌱 I’m currently learning typescript, Spring Boot and more
-⚡ Fun fact: A multimedia enthusiast who craves adventure, combining the worlds of gaming, film, and space exploration, while having a strong passion for martial arts, particularly boxing.
-📫 How to reach me: Just send me an email, and I'll get back to you. If I don't, feel free to call me. If I'm not responding, I'm possibly dead.
+-🔭 I’m currently working on to get myself a intern
+-🌱 I’m currently learning typescript, Spring Boot and more
+-⚡ Fun fact: A multimedia enthusiast who craves adventure, combining the worlds of gaming, film, and space exploration, while having a strong passion for martial arts, particularly boxing.
+-📫 How to reach me: Just send me an email, and I'll get back to you. If I don't, feel free to call me. If I'm not responding, I'm possibly dead.
 
 <!--
 **KavinduPramod/KavinduPramod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
