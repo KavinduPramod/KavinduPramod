@@ -12,16 +12,23 @@
 
 ## 🚀 About Me
 
-```typescript
-const kavindu = {
-  role: "Software Engineer",
-  passion: ["DevOps", "Automation", "Problem Solving"],
-  currentFocus: "Mastering Cloud Technologies & CI/CD",
-  hobbies: ["🎮 Gaming", "🎵 Music", "🎬 Movies"],
-  motto: "Take responsibility for your own problems. Stop waiting for others—do the research, take action, and solve it yourself.",
-  funFact: "I debug code better with music on 🎧"
-};
-```
+<tr>
+<td width="60%">
+
+I'm a simple engineer who would like to take solutions to the next level.
+
+**My philosophy?** *"Take responsibility for your own problems. Stop waiting for others—do the research, take action, and solve it yourself."* This mindset drives everything I do, from debugging stubborn code at 2 AM to architecting scalable cloud solutions.
+
+### 🎨 **WHAT MAKES ME TICK?**
+
+- **🔥 Passion Projects:** I build because I love to create
+- **🚀 DevOps Magic:** Automating the boring stuff so humans can focus on the exciting stuff
+- **🧠 Continuous Learning:** Every bug is a lesson, every project is growth
+- **🎵 Code + Music:** My productivity doubles with the right playlist
+- **🎮 Gaming Mind:** Strategic thinking from virtual worlds applied to real-world problems
+
+</td>
+</tr>
 
 <div align="center">
   
@@ -158,6 +165,41 @@ My comprehensive journey into CI/CD automation with GitHub Actions. Practical ex
 - ⚡ **Fun fact:** I solve problems faster when I'm listening to lo-fi music 🎵
 
 ---
+## 🌈 Fun Facts About Me
+<div align="center">
+
+<table>
+<tr>
+<td width="40%">
+
+### 🎮 **GAMER MINDSET**
+- Strategic thinking from RPGs
+- Problem-solving from puzzle games  
+- Team coordination from multiplayer
+- Patience from Dark Souls 😅
+
+### 🎬 **MOVIE BUFF**
+- Sci-fi inspires my tech vision
+- Thrillers teach me about user experience
+- Documentaries fuel my curiosity
+- Marvel movies remind me to be heroic in code
+
+</td>
+<td width="60%">
+
+### 🔮 **RANDOM FACTS**
+- I can debug faster with music on 🎵
+- Coffee is my debugging companion ☕
+- I think in algorithms even outside coding 🧠
+- My IDE theme changes with my mood 🎨
+- I name my variables like characters in stories 📚
+- Weekend projects often become weekday obsessions 🚀
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🤝 Let's Connect!
 
