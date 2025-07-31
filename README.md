@@ -82,14 +82,22 @@ I'm a simple engineer who would like to take solutions to the next level.
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduPramod&theme=tokyonight)
+  <!-- Primary streak service -->
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=KavinduPramod&theme=tokyonight)
+  
+  <!-- Backup option if primary fails -->
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduPramod&theme=tokyonight) -->
   
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
   
+  <!-- Primary activity graph -->
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinduPramod&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+  
+  <!-- Alternative activity graph if primary fails -->
+  <!-- [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KavinduPramod&theme=tokyo-night)](https://github.com/KavinduPramod) -->
   
 </div>
 
