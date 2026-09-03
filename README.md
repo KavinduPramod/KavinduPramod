@@ -59,8 +59,8 @@ Senior Software Engineer currently functioning as a DevOps Engineer — I build 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KavinduPramod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0F14&title_color=FFB454&icon_color=4FD1C5&text_color=EDEFF2"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduPramod&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=FFB454&text_color=EDEFF2"/>
+  <img height="165em" src="https://github-readme-stats-sable-psi-49.vercel.app/api?username=KavinduPramod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0F14&title_color=FFB454&icon_color=4FD1C5&text_color=EDEFF2"/>
+  <img height="165em" src="https://github-readme-stats-sable-psi-49.vercel.app/api/top-langs/?username=KavinduPramod&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=FFB454&text_color=EDEFF2"/>
 </div>
 
 <div align="center">
@@ -68,14 +68,13 @@ Senior Software Engineer currently functioning as a DevOps Engineer — I build 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduPramod&bg_color=0B0F14&color=4FD1C5&line=FFB454&point=EDEFF2&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph-peach-eta.vercel.app/graph?username=KavinduPramod&bg_color=0B0F14&color=4FD1C5&line=FFB454&point=EDEFF2&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KavinduPramod&theme=darkhub&no-frame=true&margin-w=6&row=1&column=6"/>
+  <img src="https://github-profile-trophy-6jqpdxefr-kavindupramod55-4258s-projects.vercel.app/?username=KavinduPramod&theme=darkhub&no-frame=true&margin-w=6&row=1&column=6"/>
 </div>
 
-> If any card above shows a broken image, it's almost always the free `vercel.app` renderer hitting a rate limit or cold-starting — reload the page. If it stays broken for more than a day, that specific service (`github-readme-stats`, `streak-stats`, `github-readme-activity-graph`, or `github-profile-trophy`) is likely down upstream and the fix is switching to a self-hosted fork, not a config change.
 
 ---
 
