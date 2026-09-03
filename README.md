@@ -1,248 +1,130 @@
-# Hi there, I'm Kavindu Pramod 👋
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%92%A1)
-  
-  <img src="https://komarev.com/ghpvc/?username=KavinduPramod&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-</div>
-
----
-
-## 🚀 About Me
-
-<tr>
-<td width="60%">
-
-I'm a simple engineer who would like to take solutions to the next level.
-
-**My philosophy?** *"Take responsibility for your own problems. Stop waiting for others—do the research, take action, and solve it yourself."* This mindset drives everything I do, from debugging stubborn code at 2 AM to architecting scalable cloud solutions.
-
-### 🎨 **WHAT MAKES ME TICK?**
-
-- **🔥 Passion Projects:** I build because I love to create
-- **🚀 DevOps Magic:** Automating the boring stuff so humans can focus on the exciting stuff
-- **🧠 Continuous Learning:** Every bug is a lesson, every project is growth
-- **🎵 Code + Music:** My productivity doubles with the right playlist
-- **🎮 Gaming Mind:** Strategic thinking from virtual worlds applied to real-world problems
-
-</td>
-</tr>
-
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/KavinduPramod?style=social)](https://github.com/KavinduPramod)
-  [![GitHub stars](https://img.shields.io/github/stars/KavinduPramod?style=social)](https://github.com/KavinduPramod)
-  
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
+# Hi, I'm Kavindu 👋
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFB454&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Backend+%2B+Infrastructure+%F0%9F%94%A7;Applied+ML+Researcher+%F0%9F%A7%A0)](https://kavindu.cc.cd)
 
-### Frontend & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=KavinduPramod&color=ffb454&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kavindu.cc.cd-0B0F14?style=for-the-badge&logo=vercel&logoColor=FFB454)](https://kavindu.cc.cd)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0B0F14?style=for-the-badge&logo=linkedin&logoColor=4FD1C5)](https://www.linkedin.com/in/kavindupramod)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+### `whoami`
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavinduPramod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduPramod&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
+Senior Software Engineer currently functioning as a DevOps Engineer — I build backend services and cross-platform apps, then end up owning the pipelines and servers that keep them alive. Based in Colombo, Sri Lanka, open to remote work.
 
-<div align="center">
-  
-  <!-- Primary streak service -->
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=KavinduPramod&theme=tokyonight)
-  
-  <!-- Backup option if primary fails -->
-  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduPramod&theme=tokyonight) -->
-  
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  
-  <!-- Primary activity graph -->
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinduPramod&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-  
-  <!-- Alternative activity graph if primary fails -->
-  <!-- [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KavinduPramod&theme=tokyo-night)](https://github.com/KavinduPramod) -->
-  
-</div>
+- 🔭 Currently working on production infrastructure and CI/CD at **Rajida Holding**
+- 🧪 Research: applied ML for mental-health risk detection — presented at **ECAI 2026, Bucharest**
+- 🌱 Learning: deepening Kubernetes and cloud-native patterns
+- 💬 Ask me about: Python, Docker, CI/CD, React/Electron, or production incidents
+- ⚡ Fun fact: I debug faster with lo-fi playing and worse decisions after 2 cups of coffee
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=KavinduPramod&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-  
-</div>
-
----
-
-## 🌟 Featured Projects
+### 🛠️ Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+**Backend & APIs**
+![Python](https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=FFB454)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0F14?style=for-the-badge&logo=fastapi&logoColor=4FD1C5)
+![Flask](https://img.shields.io/badge/Flask-0B0F14?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B0F14?style=for-the-badge&logo=node.js&logoColor=43853D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0F14?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
-### 📝 [To-Do List App](https://github.com/KavinduPramod/todo-list)
-![Todo](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+**Applications & Frontend**
+![React](https://img.shields.io/badge/React-0B0F14?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-0B0F14?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Flutter](https://img.shields.io/badge/Flutter-0B0F14?style=for-the-badge&logo=flutter&logoColor=54C5F8)
 
-A sleek, modern productivity tool built with cutting-edge web technologies. Features intuitive UI/UX and seamless task management.
+**DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F14?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux%2FUbuntu-0B0F14?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0B0F14?style=for-the-badge&logo=git&logoColor=F05032)
 
-</td>
-<td width="50%">
-
-### 🎶 [Robinson Music Player](https://github.com/KavinduPramod/Robinson-MusicPlayer)
-![Music](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-Cross-platform desktop music player with a beautiful interface. Built using Electron.js for seamless native experience.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧮 [React Calculator](https://github.com/KavinduPramod/react_calculator)
-![Calculator](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-
-Minimal, responsive calculator app showcasing clean React architecture and modern styling principles.
-
-</td>
-<td width="50%">
-
-### ⚙️ [Learn GitHub Actions](https://github.com/KavinduPramod/learn-git-actions)
-![Actions](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-My comprehensive journey into CI/CD automation with GitHub Actions. Practical examples and best practices included.
-
-</td>
-</tr>
-</table>
+**Databases & ML**
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0F14?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MariaDB](https://img.shields.io/badge/MariaDB-0B0F14?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=0B0F14)
+![NLP](https://img.shields.io/badge/NLP-0B0F14?style=for-the-badge&logo=googlescholar&logoColor=FFB454)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+### 📊 GitHub Stats
 
-- 🔭 **Working on:** Advanced DevOps practices and cloud architecture
-- 🌱 **Learning:** Kubernetes, AWS, and Infrastructure as Code
-- 👯 **Looking to collaborate on:** Open source DevOps tools and automation projects
-- 💬 **Ask me about:** Python, React, DevOps, or anything tech-related!
-- ⚡ **Fun fact:** I solve problems faster when I'm listening to lo-fi music 🎵
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KavinduPramod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0F14&title_color=FFB454&icon_color=4FD1C5&text_color=EDEFF2"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduPramod&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=FFB454&text_color=EDEFF2"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KavinduPramod&hide_border=true&background=0B0F14&stroke=232D38&ring=FFB454&fire=FFB454&currStreakLabel=EDEFF2&sideLabels=8D9AA8&dates=8D9AA8&currStreakNum=EDEFF2&sideNums=EDEFF2"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduPramod&bg_color=0B0F14&color=4FD1C5&line=FFB454&point=EDEFF2&area=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KavinduPramod&theme=darkhub&no-frame=true&margin-w=6&row=1&column=6"/>
+</div>
+
+> If any card above shows a broken image, it's almost always the free `vercel.app` renderer hitting a rate limit or cold-starting — reload the page. If it stays broken for more than a day, that specific service (`github-readme-stats`, `streak-stats`, `github-readme-activity-graph`, or `github-profile-trophy`) is likely down upstream and the fix is switching to a self-hosted fork, not a config change.
 
 ---
-## 🌈 Fun Facts About Me
+
+### 🌟 Featured Projects
+
 <div align="center">
 
-<table>
-<tr>
-<td width="40%">
-
-### 🎮 **GAMER MINDSET**
-- Strategic thinking from RPGs
-- Problem-solving from puzzle games  
-- Team coordination from multiplayer
-- Patience from Dark Souls 😅
-
-### 🎬 **MOVIE BUFF**
-- Sci-fi inspires my tech vision
-- Thrillers teach me about user experience
-- Documentaries fuel my curiosity
-- Marvel movies remind me to be heroic in code
-
-</td>
-<td width="60%">
-
-### 🔮 **RANDOM FACTS**
-- I can debug faster with music on 🎵
-- Coffee is my debugging companion ☕
-- I think in algorithms even outside coding 🧠
-- My IDE theme changes with my mood 🎨
-- I name my variables like characters in stories 📚
-- Weekend projects often become weekday obsessions 🚀
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|---|---|---|
+| 🎭 [MoodMirror](https://github.com/KavinduPramod/moodmirror) | Research-backed mental health risk assessment from Reddit activity, using NLP + behavioural analysis | `Python` `NLP` `Flask` |
+| 🔐 [VaultBee](https://github.com/KavinduPramod/VAULTBEE) | Offline-first personal secret manager — store, retrieve, and autofill secrets with no cloud or browser extension | `Security` `Offline-first` |
+| 🤖 [Robin Chatbot](https://github.com/KavinduPramod/RobinsoN_chatbot) | AI chatbot built on Hugging Face's free inference API | `HF API` `React` |
+| ✅ [toDo List](https://github.com/KavinduPramod/todo-list) | Full-stack task manager built to properly learn Docker & containerized dev | `React` `Flask` `MariaDB` `Docker` |
 
 </div>
 
-## 🤝 Let's Connect!
+See the full write-up on each at **[kavindu.cc.cd](https://kavindu.cc.cd)**.
+
+---
+
+### 🐍 Contribution Snake
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindupramod)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavindu_pramod_55)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/kavindupramod55#4162)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindupramod55@gmail.com)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KavinduPramod/KavinduPramod/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KavinduPramod/KavinduPramod/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KavinduPramod/KavinduPramod/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
+### 🤝 Let's Connect
+
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ### 🐍 Contribution Snake
-  ![Snake animation](https://github.com/KavinduPramod/KavinduPramod/blob/output/github-contribution-grid-snake.svg)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kavindupramod)
+[![Instagram](https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/kavindu_pramod_55)
+[![Email](https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kavindupramod55@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=firefox&logoColor=FFB454)](https://kavindu.cc.cd)
+
+</div>
+
+<div align="center">
+  <sub>Also: former VP of the university Esports Club · 2nd runner-up, inter-university Dota 2 championship 🎮</sub>
 </div>
 
 ---
 
 <div align="center">
-  
-  **⭐ Star my repositories if you find them interesting!**
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
-  
+  <sub>Built with 🐳 Docker, ☕ too much coffee, and a healthy fear of production incidents.</sub>
 </div>
-
-<!--
-**KavinduPramod/KavinduPramod** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
