@@ -71,35 +71,9 @@ I'm a simple engineer who would like to take solutions to the next level.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavinduPramod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduPramod&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduPramod&theme=tokyonight)
-  
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinduPramod&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=KavinduPramod&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
   
 </div>
 
